@@ -59,7 +59,7 @@ public class Principal {
 
         episodios.forEach(System.out::println);
 
-        System.out.println("------------------Busca por nome do Episódio------------------");
+        System.out.println("-----------------Busca por nome do Episódio-----------------");
         System.out.println("Digite um trecho do titulo do episódio:");
 
         var trechoTitulo = scan.nextLine();
